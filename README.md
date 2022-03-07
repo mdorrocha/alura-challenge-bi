@@ -2,7 +2,7 @@
 
 A primeira empresa, Alura Films, necessita analisar dados sobre o IMDB (Internet Movie Database) dos filmes e suas informações. Ela quer saber quais são os filmes mais votados e gêneros mais rentáveis. O percentual de gêneros mais explorados. O dinheiro ganho no filme conforme a estrela do ator. Explorar meta score e IMDB.
 
-Pra esta análise foi feita em 2 arquivos csv.
+Esta análise foi feita em 2 arquivos csv.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjVhNGUyZmEtOWRjYS00NGIzLWI3NDAtNmNjZmFjNTRmMTQ3IiwidCI6IjRlOWJkOTMzLTAyOTgtNDdlOC05MDhkLTVlYTI1MTVlNWY1MiJ9&pageName=ReportSectione24e3b5d2949dc7e6ca3">Dashboard Alura Films - Semana 1</a>
 
